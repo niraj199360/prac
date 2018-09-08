@@ -1,1 +1,2 @@
-# practice for git command
+# prac
+practice git command
